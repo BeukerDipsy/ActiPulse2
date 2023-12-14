@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActiPulse", "Test\ActiPulse.csproj", "{CA7FE4DF-1ED8-46D1-95E2-56B037B00B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA7FE4DF-1ED8-46D1-95E2-56B037B00B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7FE4DF-1ED8-46D1-95E2-56B037B00B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7FE4DF-1ED8-46D1-95E2-56B037B00B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7FE4DF-1ED8-46D1-95E2-56B037B00B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDDAA0A7-24B0-4B7F-9A3A-7D57721C1B64}
+	EndGlobalSection
+EndGlobal
